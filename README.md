@@ -1,4 +1,4 @@
-UI Design:
+## UI Design:
 
 Aceternity UI and Shadcn UI: Ensure consistency in design elements and user experience across both interfaces. Use the strengths of each UI library to create a visually appealing and intuitive interface.
 Tailwind CSS: Utilize Tailwind CSS to fine-tune styles and ensure responsiveness across different screen sizes.
@@ -11,7 +11,7 @@ Frontend:
 ReactQuery: Leverage ReactQuery for managing server state and caching data. Configure it to handle optimistic updates for a smoother user experience.
 Authentication: Implement a secure authentication system using JWT tokens or session-based authentication. Ensure proper validation and sanitization of user inputs to prevent security vulnerabilities like XSS or CSRF attacks.
 
-Features:
+## Features:
 
 Intuitive Interface: Experience a beautiful and user-friendly interface crafted with the latest Aceternity UI and Shadcn UI libraries. Tailwind CSS ensures a responsive and visually appealing design across all devices.
 
@@ -23,15 +23,15 @@ Robust Server-Side Actions and API Integrations: Benefit from powerful server-si
 
 Secure Login System: Sign up for a free account and enjoy a secure login process to access your notes privately.
 
-Getting Started:
+## Getting Started:
 
-Head over to [website URL]: (Replace with the actual website URL when deployed)
+Head over to [(https://notion-nook.vercel.app/)](https://notion-nook.vercel.app/):
 New User? Sign Up! Click the "Sign Up" button and create a free account.
 Existing User? Login! Enter your credentials and log in to access your notes.
 Start Taking Notes! Get creative and jot down all your ideas, plans, and reminders within the intuitive note management interface.
 Noteworthy: Keeping Your Thoughts Organized and Secure!
 
-Additional Information:
+## Additional Information:
 
 This documentation provides a general overview of Noteworthy's functionalities.
 For a more in-depth technical explanation of server-side actions, API integrations, and database interactions, please refer to the developer documentation (if applicable).
