@@ -25,7 +25,11 @@ const items = [
     content: (
       <div className="flex flex-col justify-between relative">
         <div>
-          <img src={TaskImage.src} className="object-cover rounded-md w-full" />
+          <img
+            src={TaskImage.src}
+            className="object-cover rounded-md w-full"
+            alt="Task"
+          />
         </div>
         <div>
           <h1 className="max-w-2xl py-2 text-start text-5xl font-extrabold tracking-tight leading-none xl:text-6xl dark:text-white bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600 font-sans">

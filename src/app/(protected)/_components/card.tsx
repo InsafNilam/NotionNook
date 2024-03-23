@@ -87,7 +87,7 @@ const NoteCard = ({
                     <DialogTitle>Update Note</DialogTitle>
                     <DialogDescription>
                       Update Notes of your profile here. Click update when
-                      you're done.
+                      you&apos;re done.
                     </DialogDescription>
                   </DialogHeader>
                   {/* Note Form to Update */}
@@ -112,8 +112,8 @@ const NoteCard = ({
                   <DialogHeader>
                     <DialogTitle>Delete Note</DialogTitle>
                     <DialogDescription>
-                      Delete Notes from your profile here. Click yes when you're
-                      done.
+                      Delete Notes from your profile here. Click yes when
+                      you&apos;re done.
                     </DialogDescription>
                   </DialogHeader>
                   <DialogFooter className="sm:justify-end">

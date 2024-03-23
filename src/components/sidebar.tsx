@@ -218,7 +218,7 @@ export const SiderBarItem = ({
           <DialogHeader>
             <DialogTitle>Add Note</DialogTitle>
             <DialogDescription>
-              Add Notes to your profile here. Click save when you're done.
+              Add Notes to your profile here. Click save when you&apos;re done.
             </DialogDescription>
           </DialogHeader>
           {/* Note Form to ADD */}
